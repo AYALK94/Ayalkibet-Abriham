@@ -150,7 +150,7 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 <a href="mailto:ayalkibetabriham94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/251977951226"><img src="https://img.shields.io/badge/Phone-+251%20977%20951%20226-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ayalkibet-abriham-4a8616259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://learn.cylabacademy.org/users/rootdestroyer94"><img src="https://img.shields.io/badge/CyLab%20Academy-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://learn.cylabacademy.org/users/rootdestroyer94"><img src="https://img.shields.io/badge/picoCTF%20(CyLab)-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://github.com/AYALK94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://ethiodigitalmenu.onrender.com/"><img src="https://img.shields.io/badge/Live%20Project-EthioDigitalMenu-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 

@@ -74,6 +74,30 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 
 ---
 
+### 🎯 Security Practice — TryHackMe & Hack The Box
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/RootDestroyer94"><img src="https://tryhackme-badges.s3.amazonaws.com/RootDestroyer94.png" alt="TryHackMe Badge" /></a>
+
+<br/><br/>
+
+<a href="https://profile.hackthebox.com/profile/019fc941-8dac-7202-884c-e42255f5d499"><img src="https://img.shields.io/badge/Hack%20The%20Box-@RootDestroyer94-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+
+</div>
+
+<p align="center"><i>🔥 Grinding daily on TryHackMe & HackTheBox — check my live progress above.</i></p>
+
+---
+
+### 📜 Certifications
+
+- 🏅 **Ethiopian CyberShield 2026 — Certificate of Participation** — *ALX Ethiopia, SecureLabs IT Technologies, Yekolo Temari & GundanCore (Sept 2026)*
+  <br/><sub>4 days of hands-on system hardening, Red Team attacks & incident response — "Hack. Hunt. Harden."</sub>
+- 🏅 *Add your next certificate here — Issuer (Year)*
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -123,7 +147,11 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 
 ### 📫 Connect With Me
 
+<a href="mailto:ayalkibetanriham94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/251977951226"><img src="https://img.shields.io/badge/Phone-+251%20977%20951%20226-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayalkibet-abriham-4a8616259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AYALK94"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ethiodigitalmenu.onrender.com/"><img src="https://img.shields.io/badge/Live%20Project-EthioDigitalMenu-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 

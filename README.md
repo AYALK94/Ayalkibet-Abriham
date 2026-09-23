@@ -1,14 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F81F7,100:00C6FF&height=220&section=header&text=Ayalkibet%20Abriham&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18" />
+
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayalkibet;Software+Engineer+%7C+Aspiring+Cybersecurity+Pro;Python+%7C+FastAPI+%7C+React+%7C+AI%2FML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayalkibet;Securing+systems%2C+one+exploit+at+a+time+%F0%9F%94%90;Python+%7C+FastAPI+%7C+React+%7C+AI%2FML;Currently+leveling+up+in+Offensive+%26+Defensive+Security" alt="Typing SVG" />
 
 <br/>
 
 <!-- Social badges -->
-<img src="https://img.shields.io/badge/Location-Ethiopia-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Ethiopia-0F2027?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-2F81F7?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Education-ASTU-2F81F7?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Education-ASTU-00C6FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" />
 
 </div>
 
@@ -52,6 +55,25 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 
 ---
 
+### 🛡️ Cybersecurity Toolkit
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB4E7?style=for-the-badge&logo=wazuh&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -65,6 +87,10 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYALK94&theme=tokyo-night&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AYALK94&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -102,5 +128,9 @@ A blockchain-backed emergency alert platform for fast, tamper-proof crisis commu
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AYALK94&color=2F81F7&style=for-the-badge)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:2F81F7,100:0F2027&height=100&section=footer" />
 
 </div>
